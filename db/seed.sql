@@ -1,0 +1,43 @@
+-- CREATE TABLE houses (
+-- --     id serial primary key,
+-- --     name varchar(30),
+-- --     address varchar(100),
+-- --     city varchar(100),
+-- --     state varchar(2),
+-- --     zip integer,
+-- --     img text,
+-- --     mortgage decimal,
+-- --     rent DECIMAL
+-- -- );
+-- insert into houses (
+--     name,
+--     address,
+--     city,
+--     state,
+--     zip,
+--     img,
+--     mortgage,
+--     rent
+-- ) values (
+--     'Duplex',
+--     '360 S State St',
+--     'Orem',
+--     'UT',
+--     84650,
+--     'img url here',
+--     1300,
+--     2300
+-- );
+-- select * from houses;
+
+-- alter table houses (
+-- add img text
+-- );
+
+-- alter table houses (
+-- add mortgage decimal
+-- );
+
+-- alter table houses (
+-- add rent decimal
+-- );
